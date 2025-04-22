@@ -53,9 +53,9 @@ I'm a **Senior Data Analyst** with 9+ years of experience transforming raw data 
 ---
 
 ### 📬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bimpy-yadav-b5a337ab/)
 - 📝 [Portfolio / Blog](https://your-website.com)
-- 💌 Reach me at: `your.email@example.com`
+- 💌 Reach me at: `bimpykumari@gmail.com`
 
 ---
 
