@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <img src="//Users/bimpykumari/Documents/DA/Bootcamp4.0 DA-Dhavel Patel/istockphoto-1867035079-1024x1024.jpg" style="width:100%; border-radius: 10px;"/>
 
-<h1 align="center">Hi there! 👋 I'm a Senior Data Analyst</h1>
+<h1 align="center">Hi! 👋 I'm a Senior Data Analyst</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data--Driven-Insights-blueviolet?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCI+PHJlY3Qgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBmaWxsPSJibHVldmlvbGV0Ii8+PC9zdmc+" />
