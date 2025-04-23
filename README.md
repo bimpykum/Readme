@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="//Users/bimpykumari/Documents/DA/Bootcamp4.0 DA-Dhavel Patel/istockphoto-1867035079-1024x1024.jpg" alt="Banner" style="width:100%; border-radius: 10px;"/>
+<img src="//Users/bimpykumari/Documents/DA/Bootcamp4.0 DA-Dhavel Patel/istockphoto-1867035079-1024x1024.jpg" style="width:100%; border-radius: 10px;"/>
 
 <h1 align="center">Hi there! 👋 I'm a Senior Data Analyst</h1>
 
